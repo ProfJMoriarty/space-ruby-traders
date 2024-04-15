@@ -1,0 +1,6 @@
+gemAuthor: 'Luca Bulletti'
+gemAuthorEmail: 'bosons_auroral0a@icloud.com'
+gemDescription: 'Ruby SDK for the SpaceTradersAPI.'
+gemName: 'space-ruby-traders'
+gemVersion: '0.9'
+moduleName: 'SpaceRubyTraderClient'
